@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dcda43bf.css",
+    "main.js": "/static/js/main.2b597b5f.js",
+    "static/media/logo-3.svg": "/static/media/logo-3.108ec5b41e2acccff27c188501758410.svg",
+    "static/media/down-NB.png": "/static/media/down-NB.387a1018a14c77c84768.png",
+    "static/media/instgram-icon.jpeg": "/static/media/instgram-icon.5879d55592a028142129.jpeg",
+    "static/media/we-offer-RB.png": "/static/media/we-offer-RB.39975699de38cc579227.png",
+    "static/media/boosting-RB.png": "/static/media/boosting-RB.4d7a56c5610ac4c148e3.png",
+    "static/media/discord-RB.png": "/static/media/discord-RB.5ff287eee90e8bab7148.png",
+    "static/media/marwan.jpg": "/static/media/marwan.8a45e51088577786b41a.jpg",
+    "static/media/gasser-cropped-2.png": "/static/media/gasser-cropped-2.32675cfc6a0a0b0d264f.png",
+    "static/media/joe.jpg": "/static/media/joe.b271a3c425c17752350f.jpg",
+    "static/media/fares-cropped-2.jpg": "/static/media/fares-cropped-2.a94e90b548d0bbfc2688.jpg",
+    "index.html": "/index.html",
+    "static/media/mix.svg": "/static/media/mix.f731c76ef5cfd8256295.svg",
+    "static/media/gradients-3.svg": "/static/media/gradients-3.168b636b0b956cbbc56b.svg",
+    "main.dcda43bf.css.map": "/static/css/main.dcda43bf.css.map",
+    "main.2b597b5f.js.map": "/static/js/main.2b597b5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcda43bf.css",
+    "static/js/main.2b597b5f.js"
+  ]
+}
